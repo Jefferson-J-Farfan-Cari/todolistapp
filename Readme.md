@@ -1,7 +1,7 @@
 # ToDoList API System
 This project was build with Java (17), Springboot (2.7.8), SpringSecurity (3.0.2), PostgreSQL (14.6)  
 
-![Accreditation](https://user-images.githubusercontent.com/69984427/193648703-0f51428c-ff3f-4fa2-aaaa-97169ac0e0f6.png)
+![ToDoList App](src/main/resources/static/springsw.png)
 
 
 ### Installation
@@ -48,3 +48,23 @@ Ctrl + C in your console or command line
       1. Go to ```Basic Authorization``` form and complete it with your email and password.
 4. On the other hand, if you use postman you should make a basic login with your own credentials email and pass.
     Or also, you can use the ```login```ep to generate a token.
+
+### Images and Screenshots of Rest API
+
+**1. Database design**  
+![Database Model](src/main/resources/static/TodoListApp.png)   
+
+**2. Swagger Login**  
+![Swagger Login](src/main/resources/static/login2.png)
+
+**3. Swagger Auth**  
+![Swagger Auth](src/main/resources/static/auth.png)
+
+**4. Swagger User End points**  
+![Swagger User](src/main/resources/static/user.png)
+
+**5. Swagger TodoList End points**  
+![Swagger TodoList](src/main/resources/static/todolist.png)
+
+**6. Swagger Task End points**  
+![Swagger Task](src/main/resources/static/task.png)  
