@@ -85,7 +85,7 @@ public class TodolistController {
         ResponseEntity.ok(!todolistService.existsById(id));
     }
 
-    @GetMapping(value = "/get_all/{id}")
+    @GetMapping(value = "/by_user/{id}")
     public Page<TodolistModel> findTodolistByUserId(
             @PathVariable UUID id,
             @RequestParam(required = false, defaultValue = "0") Integer page,
