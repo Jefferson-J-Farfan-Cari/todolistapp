@@ -55,7 +55,7 @@ Ctrl + C in your console or command line
 ![Database Model](src/main/resources/static/TodoListApp.png)   
 
 **2. Swagger Login**  
-![Swagger Login](src/main/resources/static/login2.png)
+![Swagger Login](src/main/resources/static/login.png)
 
 **3. Swagger Auth**  
 ![Swagger Auth](src/main/resources/static/auth.png)
